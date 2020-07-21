@@ -1,3 +1,3 @@
-$(document).ready(toDo() =>{
+$(document).ready(function(){
   $("#text").append("this is so freaking cool.");}
 )
